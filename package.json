@@ -1,0 +1,22 @@
+{
+  "name": "ffrk-acc",
+  "version": "0.1.0",
+  "description": "FFRK Asset Cache Cleaner",
+  "main": "index.js",
+  "bin": {
+    "ffrk-acc": "./bin/ffrk-acc.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.5",
+    "js-beautify": "^1.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Martin Wahyudi",
+    "email": "cysidus@gmail.com"
+  },
+  "license": "MIT"
+}
